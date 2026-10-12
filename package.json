@@ -1,0 +1,1 @@
+{"name":"ydsem-cepte","version":"1.0.0","type":"module","private":true,"scripts":{"build":"node build.mjs","start":"python -m http.server 4173","test":"node --test tests/content.test.js tests/app.test.js tests/bundle.test.js"}}
